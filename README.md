@@ -1,8 +1,10 @@
 # 💫 About Me:
-Student | Aspiring Data Scientist ,
-B.Tech (ECE) — FIEM, Sonarpur ,
-BS in Data Science — IIT Madras ,
-Interested in Data Science, Machine Learning, and DSA<br>
+
+- Student | Aspiring Data Scientist  
+- B.Tech (ECE) – FIEM, Sonarpur  
+- BS in Data Science – IIT Madras  
+- Interested in Data Science, Machine Learning, and DSA
+
 
 
 ## 🌐 Socials:
