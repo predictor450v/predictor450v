@@ -1,5 +1,8 @@
 # 💫 About Me:
-currently i'm a student <br>learning data science , machine learning , DSA<br>collage - IIT madras , FIEM SONARPUR<br>deegre - btech  in ECE , BS in DATA SCIENCE<br>
+Student | Aspiring Data Scientist
+B.Tech (ECE) — FIEM, Sonarpur
+BS in Data Science — IIT Madras
+Interested in Data Science, Machine Learning, and DSA<br>
 
 
 ## 🌐 Socials:
